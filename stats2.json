@@ -1,7 +1,7 @@
 {
     "health": 180,
     "speed": 350,
-    "firing_rate": .5,
+    "firing_rate": 0.5,
     "xp_drop_chance": 1,
     "contact_damage": 100,
     "powerup_rate": 5
