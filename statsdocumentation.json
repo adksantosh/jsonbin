@@ -1,0 +1,9 @@
+{
+	"health": 150,//Initial health points
+	"speed": 250,//Initial movement speed
+	"firing_rate": 2,// #/s firing frequency
+	"xp_drop_chance": 0.65, // Probability that the enemy drops an xp 
+	"contact_damage": 50, // Damage inflicted on enemy when the player collides
+	"powerup_rate": 10, // after how many #/exp does the popup screen appear 
+	"spawn_rate":1,  // #/s spawniing frequency of enemies
+}
