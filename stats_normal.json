@@ -1,0 +1,9 @@
+{
+	"health": 150,
+	"speed": 250,
+	"firing_rate": 2,
+	"xp_drop_chance": 0.65,
+	"contact_damage": 50,
+	"powerup_rate": 10,
+	"spawn_rate":1,
+}
