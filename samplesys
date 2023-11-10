@@ -1,0 +1,8 @@
+{
+    "platform": "Windows",
+    "platform-release": "10",
+    "platform-version": "10.0.19042",
+    "architecture": "AMD64",
+    "hostname": "my-computer",
+    "processor": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz"
+}
